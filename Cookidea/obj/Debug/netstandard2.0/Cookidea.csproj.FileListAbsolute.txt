@@ -1,0 +1,14 @@
+/Users/dhernandez/Downloads/Cookidea-master/Cookidea/bin/Debug/netstandard2.0/Cookidea.deps.json
+/Users/dhernandez/Downloads/Cookidea-master/Cookidea/bin/Debug/netstandard2.0/Cookidea.dll
+/Users/dhernandez/Downloads/Cookidea-master/Cookidea/bin/Debug/netstandard2.0/Cookidea.pdb
+/Users/dhernandez/Downloads/Cookidea-master/Cookidea/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/dhernandez/Downloads/Cookidea-master/Cookidea/obj/Debug/netstandard2.0/Views/FavPage.xaml.g.cs
+/Users/dhernandez/Downloads/Cookidea-master/Cookidea/obj/Debug/netstandard2.0/Views/MainPage.xaml.g.cs
+/Users/dhernandez/Downloads/Cookidea-master/Cookidea/obj/Debug/netstandard2.0/Views/ResultPage.xaml.g.cs
+/Users/dhernandez/Downloads/Cookidea-master/Cookidea/obj/Debug/netstandard2.0/Cookidea.csproj.CoreCompileInputs.cache
+/Users/dhernandez/Downloads/Cookidea-master/Cookidea/obj/Debug/netstandard2.0/Cookidea.AssemblyInfoInputs.cache
+/Users/dhernandez/Downloads/Cookidea-master/Cookidea/obj/Debug/netstandard2.0/Cookidea.AssemblyInfo.cs
+/Users/dhernandez/Downloads/Cookidea-master/Cookidea/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/dhernandez/Downloads/Cookidea-master/Cookidea/obj/Debug/netstandard2.0/Cookidea.dll
+/Users/dhernandez/Downloads/Cookidea-master/Cookidea/obj/Debug/netstandard2.0/Cookidea.pdb
+/Users/dhernandez/Downloads/Cookidea-master/Cookidea/obj/Debug/netstandard2.0/Cookidea.csprojAssemblyReference.cache
