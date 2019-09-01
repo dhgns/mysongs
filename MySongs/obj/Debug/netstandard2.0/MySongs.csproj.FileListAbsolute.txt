@@ -1,0 +1,14 @@
+/Users/cmacias/Desktop/mysongs/MySongs/bin/Debug/netstandard2.0/MySongs.deps.json
+/Users/cmacias/Desktop/mysongs/MySongs/bin/Debug/netstandard2.0/MySongs.dll
+/Users/cmacias/Desktop/mysongs/MySongs/bin/Debug/netstandard2.0/MySongs.pdb
+/Users/cmacias/Desktop/mysongs/MySongs/obj/Debug/netstandard2.0/MySongs.csprojAssemblyReference.cache
+/Users/cmacias/Desktop/mysongs/MySongs/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/cmacias/Desktop/mysongs/MySongs/obj/Debug/netstandard2.0/Views/FavPage.xaml.g.cs
+/Users/cmacias/Desktop/mysongs/MySongs/obj/Debug/netstandard2.0/Views/MainPage.xaml.g.cs
+/Users/cmacias/Desktop/mysongs/MySongs/obj/Debug/netstandard2.0/Views/ResultPage.xaml.g.cs
+/Users/cmacias/Desktop/mysongs/MySongs/obj/Debug/netstandard2.0/MySongs.csproj.CoreCompileInputs.cache
+/Users/cmacias/Desktop/mysongs/MySongs/obj/Debug/netstandard2.0/MySongs.AssemblyInfoInputs.cache
+/Users/cmacias/Desktop/mysongs/MySongs/obj/Debug/netstandard2.0/MySongs.AssemblyInfo.cs
+/Users/cmacias/Desktop/mysongs/MySongs/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/cmacias/Desktop/mysongs/MySongs/obj/Debug/netstandard2.0/MySongs.dll
+/Users/cmacias/Desktop/mysongs/MySongs/obj/Debug/netstandard2.0/MySongs.pdb

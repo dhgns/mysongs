@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{918CF0F3-8927-4D4A-B23B-2488B3D431B0}|Default">
+  <MonoDevelop.Ide.ItemProperties.MySongs.iOS automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.AA386FA7-C0E7-43D6-BE4F-985D2FC3D227" />
+  <MonoDevelop.Ide.ItemProperties.MySongs.Android PreferredExecutionTarget="Android.Nexus_6P_API_28" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MySongs/Views/FavPage.xaml">
+    <Files>
+      <File FileName="../../../../Library/Frameworks/Mono.framework/External/xbuild/Xamarin/Android/Xamarin.Android.Common.targets" Line="727" Column="37" />
+      <File FileName="MySongs/Views/ResultPage.xaml" Line="43" Column="59" />
+      <File FileName="MySongs/Views/FavPage.xaml" Line="30" Column="63" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MySongs" expanded="True">
+            <Node name="MySongs" expanded="True">
+              <Node name="Views" expanded="True">
+                <Node name="FavPage.xaml" selected="True" />
+                <Node name="ResultPage.xaml" expanded="True" />
+              </Node>
+              <Node name="App.xaml" expanded="True" />
+            </Node>
+            <Node name="MySongs.Android" expanded="True" />
+            <Node name="MySongs.iOS" expanded="True">
+              <Node name="Resources" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>Cookidea/MySongs.csproj</String>
+    <String>Cookidea.Android/MySongs.Android.csproj</String>
+    <String>Cookidea.iOS/MySongs.iOS.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
