@@ -141,22 +141,19 @@
     <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon87.png">
       <Visible>false</Visible>
     </ImageAsset>
-    <ImageAsset Include="Assets.xcassets\cook_bg.imageset\Contents.json">
-      <Visible>false</Visible>
-    </ImageAsset>
-    <ImageAsset Include="Assets.xcassets\cook_bg.imageset\cook_bg@1x.png">
-      <Visible>false</Visible>
-    </ImageAsset>
-    <ImageAsset Include="Assets.xcassets\cook_bg.imageset\cook_bg@2x.png">
-      <Visible>false</Visible>
-    </ImageAsset>
-    <ImageAsset Include="Assets.xcassets\cook_bg.imageset\cook_bg@3x.png">
-      <Visible>false</Visible>
-    </ImageAsset>
     <InterfaceDefinition Include="Resources\LaunchScreen.storyboard" />
     <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Contents.json">
       <Visible>false</Visible>
     </ImageAsset>
+    <ImageAsset Include="Assets.xcassets\bg.imageset\Contents.json" />
+    <ImageAsset Include="Assets.xcassets\bg.imageset\bg.png" />
+    <ImageAsset Include="Assets.xcassets\bg.imageset\bg%402x.png" />
+    <ImageAsset Include="Assets.xcassets\bg.imageset\bg%403x.png" />
+    <ImageAsset Include="Assets.xcassets\bg.imageset\bg-1.png" />
+    <ImageAsset Include="Assets.xcassets\bg.imageset\bg%402x-1.png" />
+    <ImageAsset Include="Assets.xcassets\bg.imageset\bg%403x-1.png" />
+    <ImageAsset Include="Assets.xcassets\bg.imageset\bg-2.png" />
+    <ImageAsset Include="Assets.xcassets\bg.imageset\bg%402x-2.png" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -206,5 +203,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Services\" />
+    <Folder Include="Assets.xcassets\bg.imageset\" />
   </ItemGroup>
 </Project>

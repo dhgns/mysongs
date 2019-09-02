@@ -3214,7 +3214,7 @@ containing a value of this type.
         public static final int avd_show_password_1=0x7f02013b;
         public static final int avd_show_password_2=0x7f02013c;
         public static final int avd_show_password_3=0x7f02013d;
-        public static final int cook_bg=0x7f020055;
+        public static final int bg=0x7f020055;
         public static final int design_bottom_navigation_item_background=0x7f020056;
         public static final int design_fab_background=0x7f020057;
         public static final int design_ic_visibility=0x7f020058;

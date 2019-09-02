@@ -1,21 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "/Users/cmacias/Desktop/mysongs/MySongs.Android/MySongs.Android.csproj": {}
+    "/Users/dhernandez/Documents/Xamarin/mvvm-mysongs/MySongs.Android/MySongs.Android.csproj": {}
   },
   "projects": {
-    "/Users/cmacias/Desktop/mysongs/MySongs.Android/MySongs.Android.csproj": {
+    "/Users/dhernandez/Documents/Xamarin/mvvm-mysongs/MySongs.Android/MySongs.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/cmacias/Desktop/mysongs/MySongs.Android/MySongs.Android.csproj",
+        "projectUniqueName": "/Users/dhernandez/Documents/Xamarin/mvvm-mysongs/MySongs.Android/MySongs.Android.csproj",
         "projectName": "MySongs.Android",
-        "projectPath": "/Users/cmacias/Desktop/mysongs/MySongs.Android/MySongs.Android.csproj",
-        "packagesPath": "/Users/cmacias/.nuget/packages/",
-        "outputPath": "/Users/cmacias/Desktop/mysongs/MySongs.Android/obj/",
+        "projectPath": "/Users/dhernandez/Documents/Xamarin/mvvm-mysongs/MySongs.Android/MySongs.Android.csproj",
+        "packagesPath": "/Users/dhernandez/.nuget/packages/",
+        "outputPath": "/Users/dhernandez/Documents/Xamarin/mvvm-mysongs/MySongs.Android/obj/",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "configFilePaths": [
-          "/Users/cmacias/.config/NuGet/NuGet.Config"
+          "/Users/dhernandez/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "monoandroid81"
@@ -26,8 +26,8 @@
         "frameworks": {
           "monoandroid81": {
             "projectReferences": {
-              "/Users/cmacias/Desktop/mysongs/MySongs/MySongs.csproj": {
-                "projectPath": "/Users/cmacias/Desktop/mysongs/MySongs/MySongs.csproj"
+              "/Users/dhernandez/Documents/Xamarin/mvvm-mysongs/MySongs/MySongs.csproj": {
+                "projectPath": "/Users/dhernandez/Documents/Xamarin/mvvm-mysongs/MySongs/MySongs.csproj"
               }
             }
           }
@@ -88,20 +88,20 @@
         }
       }
     },
-    "/Users/cmacias/Desktop/mysongs/MySongs/MySongs.csproj": {
+    "/Users/dhernandez/Documents/Xamarin/mvvm-mysongs/MySongs/MySongs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/cmacias/Desktop/mysongs/MySongs/MySongs.csproj",
+        "projectUniqueName": "/Users/dhernandez/Documents/Xamarin/mvvm-mysongs/MySongs/MySongs.csproj",
         "projectName": "MySongs",
-        "projectPath": "/Users/cmacias/Desktop/mysongs/MySongs/MySongs.csproj",
-        "packagesPath": "/Users/cmacias/.nuget/packages/",
-        "outputPath": "/Users/cmacias/Desktop/mysongs/MySongs/obj/",
+        "projectPath": "/Users/dhernandez/Documents/Xamarin/mvvm-mysongs/MySongs/MySongs.csproj",
+        "packagesPath": "/Users/dhernandez/.nuget/packages/",
+        "outputPath": "/Users/dhernandez/Documents/Xamarin/mvvm-mysongs/MySongs/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/Users/cmacias/.config/NuGet/NuGet.Config"
+          "/Users/dhernandez/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"

@@ -22,8 +22,6 @@
 	</array>
 	<key>MinimumOSVersion</key>
 	<string>11.4</string>
-	<key>CFBundleDisplayName</key>
-	<string>Cookidea</string>
 	<key>CFBundleIdentifier</key>
 	<string>com.dhernandez.MySongs</string>
 	<key>CFBundleVersion</key>

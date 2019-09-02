@@ -2437,7 +2437,7 @@ namespace MySongs.Droid
 			public const int avd_show_password_3 = 2130837821;
 			
 			// aapt resource value: 0x7f020055
-			public const int cook_bg = 2130837589;
+			public const int bg = 2130837589;
 			
 			// aapt resource value: 0x7f020056
 			public const int design_bottom_navigation_item_background = 2130837590;

@@ -23,7 +23,7 @@ namespace MySongs
             FlowListView.Init();
 
             MainPage = new NavigationPage(new MainPage()){
-                BarBackgroundColor = Color.DarkOrange,
+                BarBackgroundColor = Color.DarkMagenta,
                 BarTextColor = Color.White
             };
         }

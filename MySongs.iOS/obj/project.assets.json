@@ -1595,20 +1595,20 @@
     ]
   },
   "packageFolders": {
-    "/Users/cmacias/.nuget/packages/": {}
+    "/Users/dhernandez/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/cmacias/Desktop/mysongs/MySongs.iOS/MySongs.iOS.csproj",
+      "projectUniqueName": "/Users/dhernandez/Documents/Xamarin/mvvm-mysongs/MySongs.iOS/MySongs.iOS.csproj",
       "projectName": "MySongs.iOS",
-      "projectPath": "/Users/cmacias/Desktop/mysongs/MySongs.iOS/MySongs.iOS.csproj",
-      "packagesPath": "/Users/cmacias/.nuget/packages/",
-      "outputPath": "/Users/cmacias/Desktop/mysongs/MySongs.iOS/obj/",
+      "projectPath": "/Users/dhernandez/Documents/Xamarin/mvvm-mysongs/MySongs.iOS/MySongs.iOS.csproj",
+      "packagesPath": "/Users/dhernandez/.nuget/packages/",
+      "outputPath": "/Users/dhernandez/Documents/Xamarin/mvvm-mysongs/MySongs.iOS/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
-        "/Users/cmacias/.config/NuGet/NuGet.Config"
+        "/Users/dhernandez/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "xamarinios10"
@@ -1619,8 +1619,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "/Users/cmacias/Desktop/mysongs/MySongs/MySongs.csproj": {
-              "projectPath": "/Users/cmacias/Desktop/mysongs/MySongs/MySongs.csproj"
+            "/Users/dhernandez/Documents/Xamarin/mvvm-mysongs/MySongs/MySongs.csproj": {
+              "projectPath": "/Users/dhernandez/Documents/Xamarin/mvvm-mysongs/MySongs/MySongs.csproj"
             }
           }
         }

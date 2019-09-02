@@ -12,3 +12,16 @@
 /Users/cmacias/Desktop/mysongs/MySongs/obj/Debug/netstandard2.0/XamlC.stamp
 /Users/cmacias/Desktop/mysongs/MySongs/obj/Debug/netstandard2.0/MySongs.dll
 /Users/cmacias/Desktop/mysongs/MySongs/obj/Debug/netstandard2.0/MySongs.pdb
+/Users/dhernandez/Documents/Xamarin/mvvm-mysongs/MySongs/bin/Debug/netstandard2.0/MySongs.deps.json
+/Users/dhernandez/Documents/Xamarin/mvvm-mysongs/MySongs/bin/Debug/netstandard2.0/MySongs.dll
+/Users/dhernandez/Documents/Xamarin/mvvm-mysongs/MySongs/bin/Debug/netstandard2.0/MySongs.pdb
+/Users/dhernandez/Documents/Xamarin/mvvm-mysongs/MySongs/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/dhernandez/Documents/Xamarin/mvvm-mysongs/MySongs/obj/Debug/netstandard2.0/Views/FavPage.xaml.g.cs
+/Users/dhernandez/Documents/Xamarin/mvvm-mysongs/MySongs/obj/Debug/netstandard2.0/Views/MainPage.xaml.g.cs
+/Users/dhernandez/Documents/Xamarin/mvvm-mysongs/MySongs/obj/Debug/netstandard2.0/Views/ResultPage.xaml.g.cs
+/Users/dhernandez/Documents/Xamarin/mvvm-mysongs/MySongs/obj/Debug/netstandard2.0/MySongs.csproj.CoreCompileInputs.cache
+/Users/dhernandez/Documents/Xamarin/mvvm-mysongs/MySongs/obj/Debug/netstandard2.0/MySongs.AssemblyInfoInputs.cache
+/Users/dhernandez/Documents/Xamarin/mvvm-mysongs/MySongs/obj/Debug/netstandard2.0/MySongs.AssemblyInfo.cs
+/Users/dhernandez/Documents/Xamarin/mvvm-mysongs/MySongs/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/dhernandez/Documents/Xamarin/mvvm-mysongs/MySongs/obj/Debug/netstandard2.0/MySongs.dll
+/Users/dhernandez/Documents/Xamarin/mvvm-mysongs/MySongs/obj/Debug/netstandard2.0/MySongs.pdb

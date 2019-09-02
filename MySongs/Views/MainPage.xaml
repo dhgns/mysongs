@@ -3,16 +3,17 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:i18n="clr-namespace:MySongs;assembly=MySongs"
              xmlns:local="clr-namespace:MySongs.Views;assembly=MySongs"
+             BackgroundColor="DarkMagenta"
              x:Class="MySongs.Views.MainPage">
 
     <ContentPage
         Icon="search.png"
-        BackgroundColor="DarkOrange">
+        BackgroundColor="DarkMagenta">
 
         <ContentPage.Content>
             <RelativeLayout Padding="0">
                 <Image Aspect="AspectFill"
-                        Source="cook_bg.png"
+                        Source="bg.png"
                         RelativeLayout.WidthConstraint= "{ConstraintExpression Type=RelativeToParent, Property=Width}"
                         RelativeLayout.HeightConstraint= "{ConstraintExpression Type=RelativeToParent, Property=Height}">
                 </Image>
@@ -26,13 +27,13 @@
                                     Android="0,50"/>
                     </StackLayout.Padding>
                 
-                    <Label Text="gbrgbr" 
+                    <Label Text="Deezer App!" 
                            TextColor="White"
                            HorizontalOptions="Center"
                            VerticalOptions="Center" 
                            FontSize="20" />
 
-                    <Label Text="gbfgbk"
+                    <Label Text="Busca entre millones de canciones"
                            TextColor="White"
                            HorizontalOptions="Center"
                            VerticalOptions="Center" />
@@ -66,7 +67,7 @@
                             VerticalOptions="Center"
                             BorderRadius="20"
                             TextColor="White"
-                            BackgroundColor="DarkOrange"
+                            BackgroundColor="DarkMagenta"
                             Margin="0,20,0,0"/>
                 
                 </StackLayout>

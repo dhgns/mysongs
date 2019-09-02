@@ -181,10 +181,8 @@ namespace MySongs
 
             UserDialogs.Instance.Toast(new ToastConfig("Añadiendo canción a playlist")
                                             .SetDuration(3000)
-                                            .SetBackgroundColor(System.Drawing.Color.FromArgb(12, 131, 193)));
+                                            .SetBackgroundColor(System.Drawing.Color.FromArgb(0, 0, 0)));
 
-            App.Current.MainPage.ToolbarItems.Clear();
-            App.Current.MainPage.ToolbarItems.Add(new ToolbarItem("", "fav_filled.png", () => DeleteFavorite(Song)));
 
         }
 
@@ -198,13 +196,10 @@ namespace MySongs
 
             UserDialogs.Instance.Toast(new ToastConfig("Eliminando canción de la playlist")
                                             .SetDuration(3000)
-                                            .SetBackgroundColor(System.Drawing.Color.FromArgb(12, 131, 193)));
+                                            .SetBackgroundColor(System.Drawing.Color.FromArgb(0, 0, 0)));
                                             
 
             this.FavSongs = new ObservableCollection<Song>(await App.DatabaseService.GetItemsAsync());
-
-            App.Current.MainPage.ToolbarItems.Clear();
-            App.Current.MainPage.ToolbarItems.Add(new ToolbarItem("", "fav_empty.png", () => SaveFavorite(Song)));
             
         
         }

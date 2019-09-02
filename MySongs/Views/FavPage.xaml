@@ -4,13 +4,14 @@
              xmlns:i18n="clr-namespace:MySongs;assembly=MySongs"
              xmlns:flv="clr-namespace:DLToolkit.Forms.Controls;assembly=DLToolkit.Forms.Controls.FlowListView"
              x:Class="MySongs.Views.FavPage"
+             BackgroundColor="DarkMagenta"
              Icon="fav_empty.png">
     <ContentPage.Content>
 
         <Grid>
             <flv:FlowListView SeparatorVisibility="None" 
                               HasUnevenRows="true" 
-                              FlowColumnCount="2"
+                              FlowColumnCount="1"
                               FlowColumnMinWidth="110"
 			                  FlowItemTappedCommand="{Binding ItemTappedCommand}" 
                               FlowLastTappedItem="{Binding LastTappedItem}"
@@ -21,7 +22,7 @@
                         <Grid Padding="2">
 
                             <Grid.RowDefinitions>
-                                <RowDefinition Height="*" />
+                                <RowDefinition Height="50" />
                             </Grid.RowDefinitions>
                             <Grid.ColumnDefinitions>
                                 <ColumnDefinition Width="*" />
@@ -38,7 +39,6 @@
 							       BackgroundColor="Silver"
                                    WidthRequest="20"
                                    MinimumWidthRequest="20"
-                                   LineBreakMode="TailTruncation"
                                    Opacity="0.8"
                                    FontSize="Medium"/>
                         </Grid>
@@ -46,7 +46,7 @@
                 </flv:FlowListView.FlowColumnTemplate>
             </flv:FlowListView>
 
-            <Label Text="No fav songs"
+            <Label Text="No hay canciones en favoritos"
                     HorizontalOptions="Center" 
                     HorizontalTextAlignment="Center" 
                     VerticalOptions="Center"
